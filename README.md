@@ -1,3 +1,3 @@
 # README
 
-Una calculadora creada usando fxml y el modelo mvc
+Una calculadora usando fxml
